@@ -94,20 +94,23 @@ namespace C_Lec2Demo
             //Int16 S = 19;
             //String name = "Mariam";
             //string Name = "Mariam";
+
+            Console.WriteLine("Hello, Video12!!!###!");
+            #region Variables
             #region Value type & Reference type 
             #region Value type
             #endregion
             /*int X;*/ //CLR Will Allocate 4 uninitialzed bytes in stack
-                       // int --> C# KeyWord
-                       //X = 5;
-                       //Console.WriteLine(X);
-                       //Int32 Y = 10;
-                       //Console.WriteLine(Y);
-                       //Y = X;
-                       //Console.WriteLine(Y);
-                       //X++;
-                       //Console.WriteLine(X);
-                       //Console.WriteLine(Y);
+            // int --> C# KeyWord
+            //X = 5;
+            //Console.WriteLine(X);
+            //Int32 Y = 10;
+            //Console.WriteLine(Y);
+            //Y = X;
+            //Console.WriteLine(Y);
+            //X++;
+            //Console.WriteLine(X);
+            //Console.WriteLine(Y);
             #region Reference type
             Point P1;
             //Clr will allocate 4 bytes in stack 
@@ -129,7 +132,8 @@ namespace C_Lec2Demo
 
 
             #endregion
-         #endregion
+            #endregion
+            #endregion
 
             Console.WriteLine("Hello, Video10!!!###!");
             #region Values types

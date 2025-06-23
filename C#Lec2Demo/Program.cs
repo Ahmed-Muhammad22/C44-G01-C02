@@ -130,6 +130,8 @@ namespace C_Lec2Demo
 
             #endregion
          #endregion
+
+            Console.WriteLine("Hello, Video10!!!###!");
             #region Values types
             //string name = "Mariam"; // alias [C# KEYWORD]
             //String myName = "Mariam"; //[BCL]
@@ -145,8 +147,8 @@ namespace C_Lec2Demo
             //Console.WriteLine(y);
             //Console.WriteLine();
             /*y = x;*/ // y=x=5
-                       //Console.WriteLine(x);
-                       //Console.WriteLine(y);
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
 
             //y++;//y = y + 1
             //Console.WriteLine();
@@ -157,6 +159,7 @@ namespace C_Lec2Demo
             //Console.Write(x);
             //Console.WriteLine(name);
             #endregion
+
             #region Reference types
             //Point P1;
             //Allocate 4 bytes in stack 

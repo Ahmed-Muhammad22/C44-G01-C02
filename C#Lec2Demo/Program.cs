@@ -32,7 +32,7 @@ namespace C_Lec2Demo
             //Console.ReadLine();
 
             Console.WriteLine("Hello, Video4!!!###!");
-            
+
             #region Comments and Regions
             // This is my first comment [Single line comment]
             // int x = 5;
@@ -51,6 +51,9 @@ namespace C_Lec2Demo
             //Console.WriteLine(x + y);
             //Console.WriteLine("Hello");
             #endregion
+
+            Console.WriteLine("Hello, Video6!!!###!");
+            //int x = 5;//4 bytes
 
             #region Variables Declaration and Naming Convention
             int studentAge = 20; // 4 bytes in stack

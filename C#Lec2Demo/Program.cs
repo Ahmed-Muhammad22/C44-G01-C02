@@ -160,6 +160,7 @@ namespace C_Lec2Demo
             //Console.WriteLine(name);
             #endregion
 
+            Console.WriteLine("Hello, Video11!!!###!");
             #region Reference types
             //Point P1;
             //Allocate 4 bytes in stack 

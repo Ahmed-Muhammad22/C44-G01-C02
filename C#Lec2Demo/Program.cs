@@ -55,6 +55,7 @@ namespace C_Lec2Demo
             Console.WriteLine("Hello, Video6!!!###!");
             //int x = 5;//4 bytes
 
+            Console.WriteLine("Hello, Video7##!!!###!");
             #region Variables Declaration and Naming Convention
             int studentAge = 20; // 4 bytes in stack
             Console.WriteLine(studentAge);
@@ -62,22 +63,22 @@ namespace C_Lec2Demo
             // DataType   Name (camelCase)      Value
             // int 9number;         // Invalid
             /*int _number = 20; */      // Valid
-                                        //int @class = 200;
-                                        //int @struct = 300;
-                                        //Console.WriteLine(@class);
-                                        //Console.WriteLine(@struct);
+            //int @class = 200;
+            //int @struct = 300;
+           //Console.WriteLine(@class);
+           //Console.WriteLine(@struct);
 
-            // PascalCase => MyName (used in class names)
-            // camelCase  => myName (used in variable names)
-            // snake_case => my_name (rare in C#)
-            // kebab-case => my-name (invalid in C#)
+            // PascalCase => MyName [C# code [Project name , Solution name]]
+            // camelCase  => myName [ variable names]
+            // snake_case => my_name 
+            // kebab-case => my-name 
 
             //int number = 20, number02 = 200;
             //Console.WriteLine(number);
             //Console.WriteLine(number02);
 
             //string myName = "Mariam";
-            //Console.WriteLine(myName);
+            //String myName = new String("Mariam");
             #endregion
 
             Console.WriteLine("Hello, Video7!!!###!");

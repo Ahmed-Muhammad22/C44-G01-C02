@@ -80,12 +80,14 @@ namespace C_Lec2Demo
             //Console.WriteLine(myName);
             #endregion
 
-            #region Naming Convention Summary
+            Console.WriteLine("Hello, Video7!!!###!");
+            #region Naming Convention
             // PascalCase [C#]         => MariamShindyRoute
             // camelCase [JavaScript]  => mariamShindyRoute
             // Kebab-Case [Angular]    => mariam-shindy-route
             // Snake_Case              => Mariam_Shindy_Route
             #endregion
+
             //Int32 X = 29;
             //int X = 29; // alias [C# keyword]
             //Int16 S = 19;

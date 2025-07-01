@@ -31,6 +31,8 @@ namespace C_Lec2Demo
             //Console.WriteLine("Hello, World!");
             //Console.ReadLine();
 
+            Console.WriteLine("Hello, Video4!!!###!");
+
             #region Comments and Regions
             // This is my first comment [Single line comment]
             // int x = 5;
@@ -50,6 +52,10 @@ namespace C_Lec2Demo
             //Console.WriteLine("Hello");
             #endregion
 
+            Console.WriteLine("Hello, Video6!!!###!");
+            //int x = 5;//4 bytes
+
+            Console.WriteLine("Hello, Video7##!!!###!");
             #region Variables Declaration and Naming Convention
             int studentAge = 20; // 4 bytes in stack
             Console.WriteLine(studentAge);
@@ -57,49 +63,54 @@ namespace C_Lec2Demo
             // DataType   Name (camelCase)      Value
             // int 9number;         // Invalid
             /*int _number = 20; */      // Valid
-                                        //int @class = 200;
-                                        //int @struct = 300;
-                                        //Console.WriteLine(@class);
-                                        //Console.WriteLine(@struct);
+            //int @class = 200;
+            //int @struct = 300;
+           //Console.WriteLine(@class);
+           //Console.WriteLine(@struct);
 
-            // PascalCase => MyName (used in class names)
-            // camelCase  => myName (used in variable names)
-            // snake_case => my_name (rare in C#)
-            // kebab-case => my-name (invalid in C#)
+            // PascalCase => MyName [C# code [Project name , Solution name]]
+            // camelCase  => myName [ variable names]
+            // snake_case => my_name 
+            // kebab-case => my-name 
 
             //int number = 20, number02 = 200;
             //Console.WriteLine(number);
             //Console.WriteLine(number02);
 
             //string myName = "Mariam";
-            //Console.WriteLine(myName);
+            //String myName = new String("Mariam");
             #endregion
 
-            #region Naming Convention Summary
+            Console.WriteLine("Hello, Video7!!!###!");
+            #region Naming Convention
             // PascalCase [C#]         => MariamShindyRoute
             // camelCase [JavaScript]  => mariamShindyRoute
             // Kebab-Case [Angular]    => mariam-shindy-route
             // Snake_Case              => Mariam_Shindy_Route
             #endregion
+            Console.WriteLine("Hello, Video9#!!!###!");
             //Int32 X = 29;
             //int X = 29; // alias [C# keyword]
             //Int16 S = 19;
             //String name = "Mariam";
             //string Name = "Mariam";
+
+            Console.WriteLine("Hello, Video12!!!###!");
+            #region Variables
             #region Value type & Reference type 
             #region Value type
             #endregion
             /*int X;*/ //CLR Will Allocate 4 uninitialzed bytes in stack
-                       // int --> C# KeyWord
-                       //X = 5;
-                       //Console.WriteLine(X);
-                       //Int32 Y = 10;
-                       //Console.WriteLine(Y);
-                       //Y = X;
-                       //Console.WriteLine(Y);
-                       //X++;
-                       //Console.WriteLine(X);
-                       //Console.WriteLine(Y);
+            // int --> C# KeyWord
+            //X = 5;
+            //Console.WriteLine(X);
+            //Int32 Y = 10;
+            //Console.WriteLine(Y);
+            //Y = X;
+            //Console.WriteLine(Y);
+            //X++;
+            //Console.WriteLine(X);
+            //Console.WriteLine(Y);
             #region Reference type
             Point P1;
             //Clr will allocate 4 bytes in stack 
@@ -121,7 +132,10 @@ namespace C_Lec2Demo
 
 
             #endregion
-         #endregion
+            #endregion
+            #endregion
+
+            Console.WriteLine("Hello, Video10!!!###!");
             #region Values types
             //string name = "Mariam"; // alias [C# KEYWORD]
             //String myName = "Mariam"; //[BCL]
@@ -137,8 +151,8 @@ namespace C_Lec2Demo
             //Console.WriteLine(y);
             //Console.WriteLine();
             /*y = x;*/ // y=x=5
-                       //Console.WriteLine(x);
-                       //Console.WriteLine(y);
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
 
             //y++;//y = y + 1
             //Console.WriteLine();
@@ -149,6 +163,8 @@ namespace C_Lec2Demo
             //Console.Write(x);
             //Console.WriteLine(name);
             #endregion
+
+            Console.WriteLine("Hello, Video11!!!###!");
             #region Reference types
             //Point P1;
             //Allocate 4 bytes in stack 
